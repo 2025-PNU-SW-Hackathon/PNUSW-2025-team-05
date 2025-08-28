@@ -275,8 +275,7 @@
 #### 3.2. 기능설명
 
 #### **회원가입 페이지 (`SignupPage_Email`)**
-<img width=500 alt="이메일인증" src="images/이메일인증
-.png">
+<img width=500 alt="이메일인증" src="images/이메일인증.png"> </br>
 <img width=500 alt="회원가입" src="images/회원가입.png"></br>
 
 - **사용자 입력**: 이메일 주소, 인증번호, 개인정보
