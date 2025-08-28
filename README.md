@@ -275,8 +275,8 @@
 #### 3.2. 기능설명
 
 #### **회원가입 페이지 (`SignupPage_Email`)**
-<img width=500 alt="이메일인증" src="images/이메일인증.png"> </br>
-<img width=500 alt="회원가입" src="images/회원가입.png"></br>
+<img width=300 alt="이메일인증" src="images/이메일인증.png"> </br>
+<img width=300 alt="회원가입" src="images/회원가입.png"></br>
 
 - **사용자 입력**: 이메일 주소, 인증번호, 개인정보
 - **입력 결과**:
@@ -287,7 +287,7 @@
   - 모든 검증 통과 시: 회원가입 단계로 진행
 
 #### **로그인 페이지 (`LoginPage`)**
-<img width=500 alt="로그인" src="images/로그인.png"></br>
+<img width=300 alt="로그인" src="images/로그인.png"></br>
 
 - **사용자 입력**: ID(이메일)와 비밀번호
 - **입력 결과**:
@@ -301,7 +301,7 @@
 
 
 #### **할일 관리 페이지 (`TodoPage`)**
-<img width=500 alt="투두" src="images/투두.png"></br>
+<img width=300 alt="투두" src="images/투두.png"></br>
 
 - **사용자 입력**: 날짜 선택, 카테고리별 목표 확인, 할일 추가/수정
 - **입력 결과**:
@@ -312,7 +312,7 @@
   - 그룹 목표와 개인 목표 구분 표시
 
 #### **다이어리 페이지 (`DiaryPage`)**
-<img width=500 alt="일기" src="images/일기.png"></br>
+<img width=300 alt="일기" src="images/일기.png"></br>
 
 - **사용자 입력**: 날짜 선택, 이모지 선택, 일기 내용 작성
 - **입력 결과**:
@@ -323,7 +323,7 @@
   - 기존 다이어리가 있는 경우: 저장된 내용 표시
 
 #### **스톱워치 페이지 (`stopwatchPage`)**
-<img width=500 alt="타이머" src="images/타이머.png"></br>
+<img width=300 alt="타이머" src="images/타이머.png"></br>
 
 - **사용자 입력**: 목표 선택, 타이머 시작/정지, 학습 시간 기록
 - **입력 결과**:
@@ -334,7 +334,7 @@
   - 선택된 목표에 따라 타이머 색상 변경
 
 #### **마이페이지 (`MyPage`)**
-<img width=500 alt="마이페이지" src="images/마이페이지.png"></br>
+<img width=300 alt="마이페이지" src="images/마이페이지.png"></br>
 
 - **사용자 입력**: 프로필 정보 확인, 통계 확인, 설정 변경
 - **입력 결과**:
@@ -344,7 +344,7 @@
   - "휴학하기" 버튼 클릭 시: 로그아웃 처리
 
 #### **메인 페이지 (`InsidePage`)**
-<img width=500 alt="메인화면" src="images/메인화면.png"></br>
+<img width=300 alt="메인화면" src="images/메인화면.png"></br>
 
 - **사용자 입력**: 방 번호 선택, 공간 구매 후 설치, 게임 진행
 - **입력 결과**:
